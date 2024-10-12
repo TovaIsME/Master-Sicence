@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "hi\n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "hi\n"
+      }
+    ]
+  },
+  {
+    "parts": [
+      {
+        "text": "Hey there! How can I assist you today?"
+      }
+    ],
+    "role": "model"
+  }
+]
